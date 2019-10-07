@@ -3,6 +3,10 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-    <dimen name="progressBarWidth">250dp</dimen>
-    <dimen name="progressBarHeight">25dp</dimen>
+    <dimen name="progressBarWidth">350dp</dimen>
+    <dimen name="progressBarHeight">35dp</dimen>
+
+    <dimen name="titleTextSize">50sp</dimen>
+    <dimen name="subTitleTextSize">30sp</dimen>
+    <dimen name="infoTextSize">20sp</dimen>
 </resources>
